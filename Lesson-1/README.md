@@ -33,12 +33,10 @@ if you using 1 tag, your text will be in the tag, but, it have some rule, like t
 
 **<!DOCTYPE html>** this is not a tag, it just tells your web browser that you using a version of html5, and it is always to be the first before of the HTML tag
 
----
 **<head></head>**  
 next, we have **<head>** tag.  
 this tag is for your web browser tab bar.
 
----
 **<meta />**  
 next, we have **<meta />** tag.  
 this provides metadata about the HTML document, it will not be displayed on the page but will be machine parsable. [more about meta](https://www.w3schools.com/tags/tag_meta.asp)  
@@ -49,22 +47,17 @@ in **meta** tag, that has 3 variables:
 * name => A <meta> viewport element gives the browser instructions on how to control the page's dimensions and scaling
 * content => set content size, [more about](https://www.w3schools.com/tags/tag_meta.asp)
 
----
 **<body>**  
 next, we have **<body></body>** tag.
 all your code, will be in this tag.
 
----
 **<a></a>**  
 next, we have **<a>** tag.  
 If you want to put a link, you can put it in this tag **<a href="www.google.com"> Google </a>**.
 
----
 **<h1></h1> or <h2></h2> or <h3></h3>**  
 next, we have **<h1>** tag.
 # this is Heading Text 1.
 ## this is Heading Text 2.
 ### this is Heading Text 3.
-
----
 
