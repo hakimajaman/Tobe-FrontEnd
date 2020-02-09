@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+}
+
+.main {
+  border: 5px solid black;
+  margin-top: 20vh;
+  margin-left: 20vw;
+  margin-right: 20vw;
+  text-align: center;
+}
+
+.main li {
+ margin-top: 20px; 
+ margin-bottom: 25px;
+ list-style: none;
+}
+
+.main li a {
+  color: black;
+  text-decoration: none;
+}
