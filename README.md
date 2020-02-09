@@ -19,6 +19,8 @@ In this repository, you see the home.html and style.css, which are files for loo
 Clone the project if you want,
 and do not copy-paste all of the codes, but re-code it or re-code with what you want.
 
+In the lesson folder, you will see .md file, that is a documentation about the lesson, and has nothing to do with it
+
 There is something that you need to install, but, it will be explained in each Lesson folder.
 
 ## Authors
